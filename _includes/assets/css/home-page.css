@@ -76,6 +76,7 @@
 @media (min-width: 1024px) {
   .hero__title {
     font-size: 3.3em;
+    font-weight: 700;
   }
 }
 
