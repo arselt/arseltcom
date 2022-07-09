@@ -7,12 +7,20 @@
   justify-content: space-between;
   padding: 15px;
   background-color: var(--color-bg);
-  border-top: 3px solid var(--color-secondary);
+  /* border-top: 3px solid var(--color-secondary); */
+  border-top: 3px solid;
+  border-image: var(--color-border-gradient--reverse);
 }
 
 @media (min-width: 1024px) {
   .site-header {
     padding: 15px 30px;
+  }
+}
+
+@media (min-width: 1942px) {
+  .site-header {
+    background-color: transparent;
   }
 }
 

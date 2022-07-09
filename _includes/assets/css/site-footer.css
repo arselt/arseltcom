@@ -5,7 +5,9 @@
   align-items: center;
   justify-content: center;
   padding: 15px;
-  border-top: 1px solid var(--color-border);
+  /* border-top: 1px solid var(--color-border); */
+  border-top: 1px solid;
+  border-image: var(--color-border-gradient);
   text-align: center;
 }
 

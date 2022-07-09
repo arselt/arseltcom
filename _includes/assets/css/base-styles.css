@@ -94,7 +94,8 @@ sup {
 }
 
 hr {
-  border-color: var(--color-border);
+  /* border-color: var(--color-border); */
+  border-image: var(--color-border-gradient--reverse);
 }
 
 a {

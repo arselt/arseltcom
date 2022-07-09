@@ -1,29 +1,41 @@
 :root {
   /* Brand Colors */
   --color-primary: #222222;
-  --color-secondary: #2787b7;
+  --color-secondary: #355070;
 
   /* Background Colors */
-  --color-bg: #ffffff;
+  --color-bg: #f9f9f9;
   --color-bg-secondary: #f7f7f7;
   --color-bg-accent: #819cc6;
-
+  
   /* Text and Border Colors */
   --color-text: #222222;
   --color-text-alt: #ffffff;
   --color-border: rgba(0, 0, 0, 0.06);
-
+  --color-border-gradient: linear-gradient(130deg,#c7919180 41.07%,#819cc680 76.05%) 1;
+  --color-border-gradient--reverse: linear-gradient(130deg,#819cc680 41.07%,#c7919180 76.05%) 1;
+  
   /* Status Colors */
   --color-danger: #e03e3e;
-
+  
   /* Typography */
   --font-family-base: 'Montserrat', sans-serif;
   --font-family-heading: var(--font-family-base);
-
+  
   /* Sizes */
   --site-width: 850px;
-
+  
   /* Other */
   --border-radius: 12px;
   --border-radius-sm: 5px;
+  
+  /* Dark Mode */
+  
+  /* Background Colors */
+  /* --color-bg: #171717; */
+  
+  /* Text and Border Colors */
+  /* --color-text: #cccccc; */
+  /* --color-text-alt: #d5d5d5; */
+
 }
