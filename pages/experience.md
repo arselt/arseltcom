@@ -10,39 +10,45 @@ eleventyNavigation:
 ### 👨🏽‍💻  Experience:
 
 
-#### Fun/Freelancing/Personal
+#### Luxury Presence
 
-**Designing and coding static web pages** *(2018 - current)*
+**Website Builder** *(may 2022 - current)*
 
-* Building Static Web Pages (HTML, CSS) and doing stuff for my self education. I have been
-using Photoshop, Lightroom, Adobe XD, Figma and Git as a version control system.
-
-**Building Web Apps** *(june 2021 - current)*
-
-* Learning a building web apps, using package managers as NPM, CSS and
-HTML (SASS & PUG) Preprocessors and ReactJS.
+Helping real estate agents & teams thrive online through a proprietary WordPress like platform.
+* June 2022 best newcomer out of 10+ (offshore).
+* Work on 60+ QA revisions of the client UI, mainly injecting CSS and rearranging elements.
+* Optimizing design and accessibility on prebuilt elements
+* Currently working on VIP Clients, creating and implementing more detailed and "out of the box" designs.
 
 #### Geodesa - Prolag
 
-**Software Developing Internship** *(february 2020 - march 2020)*
+**Technical Sofware Developer Internship** *(february 2020 - march 2020)*
 
-* From figuring out how to fix things at the office to design and implement mock-ups for
-web responsive design and mobile apps. Mostly web UI design.
+* Designed and implemented responsive web design.
+* Built semantic and accessible sites.
+* Maintenance to computer hardware.
 
 - - -
 
 ### 📚 Education:
 
-### Platzi
+#### Platzi Master
+
+* In-depth technical and soft skills program for software developers
+based on first-hand experience.
+
+#### Platzi
 
 **80+ approved courses**
-
+* Built several web apps, using package managers as NPM, CSS and HTML (SASS & PUG) Preprocessors and ReactJS.
+* Worked with 20+ Static Web Pages (HTML, CSS). Using Photoshop, Lightroom, Adobe XD, Figma for the Designing Process and Git as a version control system.
 * Platzi English Academy
-
-* Escuela de Blockchain y Criptomonedas
+* Blockchain Learning Path
 
 #### CBTIS #4
 
-**Technical Highschool** *(2017 - 2020)*
+**Technical Sofware Developer Highschool** *(2017 - 2020)*
 
 * Technic in systems and software developing
+* Mentored classmates specially on themes as UI/UX, HTML, CSS, Hardware and Operative Systems.
+* Experience with C++, C# .NET, PHP and Networks.
