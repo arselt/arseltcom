@@ -33,9 +33,8 @@
 
   .home-page__bg-container__image {
     width: 100%;
-    height: 100%;
+    height: 540px;
     max-width: 580px;
-    max-height: 580px;
   }
 }
 

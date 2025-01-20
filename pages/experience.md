@@ -15,18 +15,18 @@ eleventyNavigation:
 **Website Builder** *(may 2022 - current)*
 
 Helping real estate agents & teams thrive online through a proprietary WordPress like platform.
-* June 2022 best newcomer out of 10+ (offshore).
-* Work on 60+ QA revisions of the client UI, mainly injecting CSS and rearranging elements.
-* Optimizing design and accessibility on prebuilt elements
-* Currently working on VIP Clients, creating and implementing more detailed and "out of the box" designs.
+* Resolved 800+ client UI QA tickets and created bespoke UI solutions for VIP clients using SASS, HTML, and JavaScript, ensuring high-quality, on-time project launches and improved user experiences.
+* Enhanced design and accessibility across 50+ prebuilt UI components, prioritizing usability and achieving compliance with accessibility standards under strict technical constraints.
+* Mentored 40+ team members in CSS, SCSS, and HTML through a dedicated Slack channel, improving team proficiency and accelerating issue resolution.
+* Onboarded a new team member to the VIP design workflow, providing hands-on training that enabled full integration and high-quality deliverables within three weeks.
+* Recognized as 'Best Newcomer' in June 2022 among 10+ colleagues for outstanding performance and rapid adaptation to the team workflow.
 
 #### Geodesa - Prolag
 
 **Technical Sofware Developer Internship** *(february 2020 - march 2020)*
 
-* Designed and implemented responsive web design.
-* Built semantic and accessible sites.
-* Maintenance to computer hardware.
+* Designed and implemented responsive, semantic, and accessible web designs, ensuring compatibility across devices and adhering to web standards and accessibility best practices to enhance user experience.
+* Provided maintenance and troubleshooting for computer hardware, improving system reliability and performance for the business.
 
 - - -
 
@@ -34,14 +34,13 @@ Helping real estate agents & teams thrive online through a proprietary WordPress
 
 #### Platzi Master
 
-* In-depth technical and soft skills program for software developers
-based on first-hand experience.
+* Platzi Master (January 2022 - July 2022): Selected for an intensive program focused on both technical and soft skills, where I worked on advanced frontend development challenges, collaborated on real-world projects, refining technical expertise and professional abilities.
 
 #### Platzi
 
 **80+ approved courses**
-* Built several web apps, using package managers as NPM, CSS and HTML (SASS & PUG) Preprocessors and ReactJS.
-* Worked with 20+ Static Web Pages (HTML, CSS). Using Photoshop, Lightroom, Adobe XD, Figma for the Designing Process and Git as a version control system.
+* Supported the community by assisting peers through comments, sharing documentation, and providing tailored solutions.
+* Built 20+ web applications and pages using HTML, CSS, JavaScript, React, and Git, with a focus on best development practices.
 * Platzi English Academy
 * Blockchain Learning Path
 
@@ -50,5 +49,4 @@ based on first-hand experience.
 **Technical Sofware Developer Highschool** *(2017 - 2020)*
 
 * Technic in systems and software developing
-* Mentored classmates specially on themes as UI/UX, HTML, CSS, Hardware and Operative Systems.
-* Experience with C++, C# .NET, PHP and Networks.
+* Mentored peers on UI/UX, HTML, CSS, and computer hardware, while developing projects using C++, C#, .NET, PHP, and HTML, and gaining hands-on experience in networks and systems.
