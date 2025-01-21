@@ -9,7 +9,7 @@ tags:
 
 ![My Photo profile in Glass](/static/img/photo-blog.png "Discover my photography on Glass")
 
-Photography has always been more than just a hobby for me—it's a way of capturing moments, emotions, and the beauty of the world around us. From vast landscapes to intimate portraits, I find inspiration in the details that often go unnoticed.
+Photography has always been more than just a hobby for me—it's a way of capturing moments, emotions, and the beauty of the world around us. From vast landscapes to dynamic cityscapes, I find inspiration in the details that often go unnoticed.
 
 I particularly enjoy working with natural light, as it adds a genuine and timeless quality to my images. Editing is also a crucial part of my process—using tools like Lightroom and Photoshop, I enhance the colors and details while staying true to the original essence of the shot.
 
