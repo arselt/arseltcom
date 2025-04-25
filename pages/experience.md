@@ -12,7 +12,7 @@ eleventyNavigation:
 
 #### Luxury Presence
 
-**Website Builder** *(may 2022 - current)*
+**Website Builder** *(may 2022 - march 2025)*
 
 Helping real estate agents & teams thrive online through a proprietary WordPress like platform.
 * Resolved 800+ client UI QA tickets and created bespoke UI solutions for VIP clients using SASS, HTML, and JavaScript, ensuring high-quality, on-time project launches and improved user experiences.

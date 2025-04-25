@@ -10,7 +10,6 @@ eleventyNavigation:
 ---
 #### Hi there, I'm Arath Astorga 👋🏽
 
-
 👨🏽‍💻 Frontend Developer with professional experience building responsive, accessible, and user-centric web solutions. Passionate about crafting impactful digital experiences and continuously learning to tackle complex challenges.
 📷 Also a landscape/cityscape and nature photographer 😁
 

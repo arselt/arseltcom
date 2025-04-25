@@ -5,7 +5,7 @@ metaDescription: Cryptoviewer is a React-based web app that displays real-time c
 date: 2025-04-20T13:00:00.000Z
 summary: Cryptoviewer is a React-based web app that displays real-time cryptocurrency data along with historical price charts.
 tags:
-  - React.js
+  - React
   - Redux
   - Tailwind
   - HTML
