@@ -1,5 +1,5 @@
 ---
-title: Experience
+title: 🧑🏽‍💻 Experience
 subtitle: A brief resumee
 date: 2021-12-12T23:00:00.000Z
 permalink: /experience/index.html
@@ -7,26 +7,32 @@ eleventyNavigation:
   order: 3
   key: Experience
 ---
-### 👨🏽‍💻  Experience:
 
+### LeadVenture
+
+**Frontend Developer** *(may 2025 - present)*
+
+Connecting OEMs with dealers, enhancing brand presence, meeting dealer needs, and converting shoppers into loyal buyers.
+* Development, implementation, and delivery of web pages based on existing designs using HTML, modern CSS, and JavaScript in a custom CMS and WordPress, participating in a large scale migration project while maintaining production stability.
+* Implementation and debugging of first and third party scripts, ensuring cross browser compatibility.
+* Technical coordination with stakeholders and support teams for issue resolution and escalation.
 
 #### Luxury Presence
 
 **Website Builder** *(may 2022 - march 2025)*
 
 Helping real estate agents & teams thrive online through a proprietary WordPress like platform.
-* Resolved 800+ client UI QA tickets and created bespoke UI solutions for VIP clients using SASS, HTML, and JavaScript, ensuring high-quality, on-time project launches and improved user experiences.
-* Enhanced design and accessibility across 50+ prebuilt UI components, prioritizing usability and achieving compliance with accessibility standards under strict technical constraints.
-* Mentored 40+ team members in CSS, SCSS, and HTML through a dedicated Slack channel, improving team proficiency and accelerating issue resolution.
-* Onboarded a new team member to the VIP design workflow, providing hands-on training that enabled full integration and high-quality deliverables within three weeks.
-* Recognized as 'Best Newcomer' in June 2022 among 10+ colleagues for outstanding performance and rapid adaptation to the team workflow.
+* Resolution of 800+ UI QA tickets, delivering fixes and adjustments for VIP clients using SASS, HTML, and JavaScript.
+* Accessibility and usability improvements across 50+ UI components under strict technical constraints, maintaining production quality.
+* Technical support and coordination with 40+ team members, including full onboarding of a new team member within 3 weeks.
+* Recognized as 'Best Newcomer' in June 2022 for outstanding performance and rapid adaptation.
 
 #### Geodesa - Prolag
 
 **Technical Sofware Developer Internship** *(february 2020 - march 2020)*
 
-* Designed and implemented responsive, semantic, and accessible web designs, ensuring compatibility across devices and adhering to web standards and accessibility best practices to enhance user experience.
-* Provided maintenance and troubleshooting for computer hardware, improving system reliability and performance for the business.
+* Web development with PHP and WordPress, focused on responsive design and accessibility.
+* Technical support and hardware maintenance.
 
 - - -
 

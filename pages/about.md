@@ -15,7 +15,7 @@ eleventyNavigation:
 
 ## 🌟 Key Skills:
 
- - Hands-on expertise with HTML, CSS, JavaScript (React) for developing and enhancing web applications.
+ - Hands-on expertise with HTML, CSS, JavaScript, diverse CMS (private and public platforms) and React for developing and enhancing web applications.
  - Experience with tools like Figma, Adobe XD, Photoshop for design and prototyping.
  - Familiarity with Python, PHP, C# .NET, and C++, gained through academic and early-career projects.
 
