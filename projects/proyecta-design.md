@@ -15,7 +15,7 @@ tags:
 Proyecta.design is a landing page built with Astro for a client specializing in custom kitchens, closets, and integrated furniture. The site includes a contact form and dynamically generates project pages from Markdown files stored in `/content/projects`. It is fully responsive and accessible.
 
 ## Live Demo
-<a href="https://proyecta.design/" target="_blank" rel="noopener noreferrer">🚀 Deploy</a>
+<a href="https://proyecta-design.netlify.app" target="_blank" rel="noopener noreferrer">🚀 Deploy</a>
 
 ![Project Screenshot](/static/img/proyecta-design.png)
 
